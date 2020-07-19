@@ -1,5 +1,5 @@
 # week01（0713-0719） 学习笔记
-## :fa-heart: tips
+##  tips
 1. 五毒神掌
   1)5-10分钟：读题&思考
   2)有思路->切题四件套；没思路->看题解
@@ -32,7 +32,7 @@
 14. hash table工程抽象-> set, dict(map)
 15. 常用数据结构的时间复杂度表
 
-##  /big-star 思考
+##  思考
 1. 跳表需要再看看
 2. linked-list应用 [LRU缓存算法](https://www.jianshu.com/p/b1ab4a170c3c) 
 3. skip-list 应用 [redis](https://www.zhihu.com/question/20202931)

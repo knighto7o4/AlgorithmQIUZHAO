@@ -28,14 +28,20 @@ dp函数/dp_table的含义，
 想想起码要做的是：视频+6个题（0.5*6=3h）->开始吧
 2. 动态规划 vs 递归
 
-
-
 ## 训练题表
 
 |周序号| 题号 |题源| 训练点 | 训练次数  |最近训练时间|
 |---| --------   |------ | ----- | ----  |----|
-|week4|[64.最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/submissions/)|week04|DP|1|0809|
-|week4|[509.斐波那契数列](https://leetcode-cn.com/problems/fibonacci-number/)|week04_1|DP|1|0809|
+|week4|[198.打家劫舍](https://leetcode-cn.com/problems/house-robber/)|week04_6|DP|-|0809|
+|week4|[152.乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/description/)|week04_5|DP|-|0809|
+|week4|[70.爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/)|week04_5|DP|-|0809|
+|week4|[322.零钱兑换](https://leetcode-cn.com/problems/coin-change/)|week04_5|DP|-|0809|
+|week4|[53.最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|week04_5|DP|-|0809|
+|week4|[120.三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|week04_4|DP|-|0809|
+|week4|[1143.最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)|week04_3|DP|-|0809|
+|week4|[62.不同路径](https://leetcode-cn.com/problems/unique-paths/)|week04_2|DP|1|0809|
+|week4|[64.最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/submissions/)|week04_2|DP|1|0809|
+|week4|[509.斐波那契数列](https://leetcode-cn.com/problems/fibonacci-number/)|week04_2|DP|1|0809|
 |week3|[367. 有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/)|week03_3_1|分治|-|0802|
 |week3|[69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)|week03_3_1|分治|-|0802|
 |week3|[33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|week03_2_1|贪心|-|0802|

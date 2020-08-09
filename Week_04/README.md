@@ -34,7 +34,8 @@ dp函数/dp_table的含义，
 
 |周序号| 题号 |题源| 训练点 | 训练次数  |最近训练时间|
 |---| --------   |------ | ----- | ----  |----|
-|week4|[.斐波那契数列]()|week04_1|DP|-|0809|
+|week4|[64.最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/submissions/)|week04|DP|1|0809|
+|week4|[509.斐波那契数列](https://leetcode-cn.com/problems/fibonacci-number/)|week04_1|DP|1|0809|
 |week3|[367. 有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/)|week03_3_1|分治|-|0802|
 |week3|[69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)|week03_3_1|分治|-|0802|
 |week3|[33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|week03_2_1|贪心|-|0802|

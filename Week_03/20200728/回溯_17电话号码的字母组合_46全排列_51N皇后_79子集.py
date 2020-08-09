@@ -151,6 +151,24 @@ def solveNQueens(n):
     return final_result
 print('--solveNQueens:', solveNQueens(4))
 
-# 169.多数元素
+# 79.子集
+def subsets5(nums):
+    def backtrace(subset, nums, start):
+        # 结束条件
+        res.append(subset[:])
+        # 当前层处理
+        for i in range(start, n):
+            # 做选择，并更新状态集和可选列表，num就是当次的选择
+            # 同时，num之前的元素已经遍历过，下次做横向选择的时候应该从num之后开始选择，否则已经选过的元素会被重复尝试
+            # 不只是remove,应该时切片取
+            subset.append(nums[i])
+            # 下钻
+            backtrace(subset, nums, i + 1)  # 此处当前的选择之后的选择作为下一次的选项列表
+            # 撤销选择，继续横向尝试
+            subset.pop()
+    res = []
+    n = len(nums)
+    backtrace([], nums, 0)
+    return res
+print('subset5:', subsets5([1,2,3]))
 
-#

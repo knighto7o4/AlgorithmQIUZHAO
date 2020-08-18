@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d90d3557-e1ea-461a-8343-c1153bf37236" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_05/位运算_位1的个数_2的幂_颠倒二进制位_比特位计数_N皇后.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_05/动态规划_打家劫舍.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_05/树_.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_01/20200717/list_283移动零_.py" afterPath="$PROJECT_DIR$/Week_01/list_283移动零_.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_01/20200718/hashmap_242有效的字母异位词_2数之和.py" afterPath="$PROJECT_DIR$/Week_01/hashmap_242有效的字母异位词_2数之和.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_01/20200719/dequeue_239滑动窗口_设计循环双端队列.py" afterPath="$PROJECT_DIR$/Week_01/dequeue_239滑动窗口_设计循环双端队列.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_01/20200719/stack_155最小栈_24有效的括号_84柱状图中的最大的矩形_接雨水.py" afterPath="$PROJECT_DIR$/Week_01/stack_155最小栈_24有效的括号_84柱状图中的最大的矩形_接雨水.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_02/20200724/树_二叉树的前中序遍历_N叉树的前后序遍历.py" afterPath="$PROJECT_DIR$/Week_02/树_二叉树的前中序遍历_N叉树的前后序遍历.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_02/20200725/堆_heapq_前k个高频元素_最小的k个元素.py" afterPath="$PROJECT_DIR$/Week_02/堆_heapq_前k个高频元素_最小的k个元素.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_02/20200726/堆_队列_239滑动窗口的最大值_264丑数.py" afterPath="$PROJECT_DIR$/Week_02/堆_队列_239滑动窗口的最大值_264丑数.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_03/20200727/分治_79子集_59pow_169多数元素.py" afterPath="$PROJECT_DIR$/Week_03/分治_79子集_59pow_169多数元素.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_03/20200728/回溯_17电话号码的字母组合_46全排列_51N皇后_79子集.py" afterPath="$PROJECT_DIR$/Week_03/回溯_17电话号码的字母组合_46全排列_51N皇后_79子集.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_03/20200730/DFS-BFS.py" afterPath="$PROJECT_DIR$/Week_03/DFS-BFS.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_03/20200802/二分查找_33搜索旋转排序数组_.py" afterPath="$PROJECT_DIR$/Week_03/二分查找_33搜索旋转排序数组_.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_03/20200802/贪心_455分发饼干.py" afterPath="$PROJECT_DIR$/Week_03/贪心_455分发饼干.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_04/20200809/动态规划_509斐波那契数列_62不同路径_64最小路径和_1143最长公共子序列_120三角形最小路径和_53最大子序和_打家劫舍_爬楼梯__.py" afterPath="$PROJECT_DIR$/Week_04/动态规划_509斐波那契数列_62不同路径_64最小路径和_1143最长公共子序列_120三角形最小路径和_53最大子序和_打家劫舍_爬楼梯__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_05/README.md" afterPath="$PROJECT_DIR$/Week_05/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,42 +25,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="动态规划_打家劫舍.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week_05/动态规划_打家劫舍.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="树_.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week_05/树_.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="42" column="29" lean-forward="false" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="[51]N皇后.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[51]N皇后.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3360">
-              <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="121" selection-end-column="107" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="[52]N皇后 II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[52]N皇后 II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="669">
-              <caret line="65" column="35" lean-forward="true" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
-              <folding />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week_05/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="490">
+                <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -103,7 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Week_02/20200726/堆_.py" />
         <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[239]滑动窗口最大值.py" />
         <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[263]丑数.py" />
         <option value="$PROJECT_DIR$/Week_02/20200726/堆_队列_239滑动窗口的最大值_264丑数.py" />
@@ -154,6 +112,7 @@
         <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[190]颠倒二进制位.py" />
         <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[51]N皇后.py" />
         <option value="$PROJECT_DIR$/Week_05/位运算_位1的个数_2的幂_颠倒二进制位_比特位计数_N皇后.py" />
+        <option value="$PROJECT_DIR$/Week_05/README.md" />
       </list>
     </option>
   </component>
@@ -207,14 +166,15 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/knigh/Desktop/algorithm_practice/AlgorithmQIUZHAO/Week_03/20200730/DFS-BFS.py" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\knigh\Desktop\algorithm_practice\AlgorithmQIUZHAO\Week_04" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\knigh\Desktop\algorithm_practice\AlgorithmQIUZHAO\Week_04" />
       <recent name="C:\Users\knigh\Desktop\algorithm_practice\AlgorithmQIUZHAO\Week_03" />
       <recent name="C:\Users\knigh\Desktop\algorithm_practice\AlgorithmQIUZHAO\Week_02" />
       <recent name="C:\Users\knigh\Desktop\algorithm_practice\AlgorithmQIUZHAO\Week_01" />
       <recent name="C:\Users\knigh\Desktop\algorithm_practice\AlgorithmQIUZHAO\Week_05" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\knigh\Desktop\algorithm_practice\AlgorithmQIUZHAO\Week_04" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -352,7 +312,7 @@
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24311183" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24311183" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -509,26 +469,6 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[62]不同路径.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[53]最大子序和.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[322]零钱兑换.py" />
-    <entry file="file://$PROJECT_DIR$/Week_04/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="346">
-            <caret line="34" column="64" lean-forward="false" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_05/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/da-jia-jie-she-by-leetcode-solution.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -541,13 +481,6 @@
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1143]最长公共子序列.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[120]三角形最小路径和.py" />
-    <entry file="file://$PROJECT_DIR$/Week_04/20200809/动态规划_509斐波那契数列_62不同路径_64最小路径和_1143最长公共子序列_120三角形最小路径和_53最大子序和_打家劫舍_爬楼梯__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2905">
-          <caret line="83" column="36" lean-forward="false" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
@@ -747,6 +680,36 @@
         <state relative-caret-position="459">
           <caret line="42" column="29" lean-forward="false" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_04/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_04/动态规划_509斐波那契数列_62不同路径_64最小路径和_1143最长公共子序列_120三角形最小路径和_53最大子序和_打家劫舍_爬楼梯__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="83" column="36" lean-forward="false" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_05/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="490">
+            <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

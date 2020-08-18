@@ -2,14 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d90d3557-e1ea-461a-8343-c1153bf37236" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_02/20200724/树_二叉树的前中序遍历_N叉树的前后序遍历.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_02/20200725/堆_heapq_前k个高频元素_最小的k个元素.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_02/20200726/堆_队列_239滑动窗口的最大值_264丑数.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/AlgorithmQIUZHAO.iml" afterPath="$PROJECT_DIR$/.idea/AlgorithmQIUZHAO.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_05/位运算_位1的个数_2的幂_颠倒二进制位_比特位计数_N皇后.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_05/动态规划_打家劫舍.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_05/树_.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_01/20200717/list_283移动零_.py" afterPath="$PROJECT_DIR$/Week_01/list_283移动零_.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_01/20200718/hashmap_242有效的字母异位词_2数之和.py" afterPath="$PROJECT_DIR$/Week_01/hashmap_242有效的字母异位词_2数之和.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_01/20200719/dequeue_239滑动窗口_设计循环双端队列.py" afterPath="$PROJECT_DIR$/Week_01/dequeue_239滑动窗口_设计循环双端队列.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_01/20200719/stack_155最小栈_24有效的括号_84柱状图中的最大的矩形_接雨水.py" afterPath="$PROJECT_DIR$/Week_01/stack_155最小栈_24有效的括号_84柱状图中的最大的矩形_接雨水.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_02/20200724/树_二叉树的前中序遍历_N叉树的前后序遍历.py" afterPath="$PROJECT_DIR$/Week_02/树_二叉树的前中序遍历_N叉树的前后序遍历.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_02/20200725/堆_heapq_前k个高频元素_最小的k个元素.py" afterPath="$PROJECT_DIR$/Week_02/堆_heapq_前k个高频元素_最小的k个元素.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_02/20200726/堆_队列_239滑动窗口的最大值_264丑数.py" afterPath="$PROJECT_DIR$/Week_02/堆_队列_239滑动窗口的最大值_264丑数.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_03/20200727/分治_79子集_59pow_169多数元素.py" afterPath="$PROJECT_DIR$/Week_03/分治_79子集_59pow_169多数元素.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_03/20200728/回溯_17电话号码的字母组合_46全排列_51N皇后_79子集.py" afterPath="$PROJECT_DIR$/Week_03/回溯_17电话号码的字母组合_46全排列_51N皇后_79子集.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_03/20200730/DFS-BFS.py" afterPath="$PROJECT_DIR$/Week_03/DFS-BFS.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_03/20200802/二分查找_33搜索旋转排序数组_.py" afterPath="$PROJECT_DIR$/Week_03/二分查找_33搜索旋转排序数组_.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Week_03/20200802/贪心_455分发饼干.py" afterPath="$PROJECT_DIR$/Week_03/贪心_455分发饼干.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_02/README.md" afterPath="$PROJECT_DIR$/Week_02/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,25 +29,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="树_二叉树的前中序遍历_N叉树的前后序遍历.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week_02/20200724/树_二叉树的前中序遍历_N叉树的前后序遍历.py">
+      <file leaf-file-name="位运算_位1的个数_2的幂_颠倒二进制位_比特位计数_N皇后.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week_05/位运算_位1的个数_2的幂_颠倒二进制位_比特位计数_N皇后.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="669">
-              <caret line="172" column="18" lean-forward="false" selection-start-line="172" selection-start-column="18" selection-end-line="172" selection-end-column="18" />
+            <state relative-caret-position="564">
+              <caret line="120" column="44" lean-forward="false" selection-start-line="120" selection-start-column="44" selection-end-line="120" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week_02/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="动态规划_打家劫舍.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week_05/动态规划_打家劫舍.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="树_.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week_05/树_.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="42" column="29" lean-forward="false" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="[51]N皇后.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[51]N皇后.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3360">
+              <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="121" selection-end-column="107" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="[52]N皇后 II.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[52]N皇后 II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="669">
+              <caret line="65" column="35" lean-forward="true" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -52,20 +88,21 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cookies</find>
+      <find>self,</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>s</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Week_01/20200717/list_283移动零_.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[70]爬楼梯.py" />
-        <option value="$PROJECT_DIR$/Week_02/20200721/树_.py" />
-        <option value="$PROJECT_DIR$/Week_02/20200722/树_.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[94]二叉树的中序遍历.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[590]N叉树的后序遍历.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[589]N叉树的前序遍历.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[144]二叉树的前序遍历.py" />
         <option value="$PROJECT_DIR$/Week_02/20200726/堆_.py" />
         <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[239]滑动窗口最大值.py" />
         <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[263]丑数.py" />
@@ -73,15 +110,58 @@
         <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[剑指 Offer 40]最小的k个数.py" />
         <option value="$PROJECT_DIR$/Week_02/20200725/堆_heapq_前k个高频元素_最小的k个元素.py" />
         <option value="$PROJECT_DIR$/Week_02/20200724/树_二叉树的前中序遍历_N叉树的前后序遍历.py" />
+        <option value="$PROJECT_DIR$/Week_03/20200727/分治_递归_79子集_59pow.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[50]Pow(x, n).py" />
+        <option value="$PROJECT_DIR$/Week_03/20200728/回溯_全排列_N皇后_子集.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[17]电话号码的字母组合.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[46]全排列.py" />
+        <option value="$PROJECT_DIR$/Week_03/20200730/DFS-BFS.py" />
+        <option value="$PROJECT_DIR$/Week_03/20200728/回溯_46全排列_N皇后_子集.py" />
+        <option value="$PROJECT_DIR$/Week_03/20200728/回溯_17电话号码的字母组合_46全排列_51N皇后_子集.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[169]多数元素.py" />
         <option value="$PROJECT_DIR$/Week_02/README.md" />
+        <option value="$PROJECT_DIR$/Week_03/20200727/分治_递归_78子集_59pow.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[78]子集.py" />
+        <option value="$PROJECT_DIR$/Week_03/20200802/搜索.py" />
+        <option value="$PROJECT_DIR$/Week_03/20200802/二分查找_.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[33]搜索旋转排序数组.py" />
+        <option value="$PROJECT_DIR$/Week_03/20200802/二分查找_33搜索旋转排序数组_.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[455]分发饼干.py" />
+        <option value="$PROJECT_DIR$/Week_03/20200802/贪心_.py" />
+        <option value="$PROJECT_DIR$/Week_03/20200802/贪心_455分发饼干.py" />
+        <option value="$PROJECT_DIR$/Week_03/20200727/分治_79子集_59pow_169多数元素.py" />
+        <option value="$PROJECT_DIR$/Week_03/20200728/回溯_17电话号码的字母组合_46全排列_51N皇后_79子集.py" />
+        <option value="$PROJECT_DIR$/Week_03/README.md" />
+        <option value="$PROJECT_DIR$/Week_04/20200809/动态规划.py" />
+        <option value="$PROJECT_DIR$/Week_04/20200809/动态规划_斐波那契数列_路径计算_最长公共子序列_三角形最小路径和_最大子序列和_打家劫舍_爬楼梯__.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[509]斐波那契数.py" />
+        <option value="$PROJECT_DIR$/Week_04/20200809/动态规划_509斐波那契数列_路径计算_最长公共子序列_三角形最小路径和_最大子序列和_打家劫舍_爬楼梯__.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[62]不同路径.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[64]最小路径和.py" />
+        <option value="$PROJECT_DIR$/Week_04/20200809/动态规划_509斐波那契数列_62不同路径_64最小路径和_最长公共子序列_三角形最小路径和_最大子序列和_打家劫舍_爬楼梯__.py" />
+        <option value="$PROJECT_DIR$/Week_04/README.md" />
+        <option value="$PROJECT_DIR$/Week_05/20200810/树_.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[213]打家劫舍 II.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[198]打家劫舍.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[337]打家劫舍 III.py" />
+        <option value="$PROJECT_DIR$/Week_05/动态规划_打家劫舍.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[191]位1的个数.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[231]2的幂.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[338]比特位计数.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[52]N皇后 II.py" />
+        <option value="$PROJECT_DIR$/Week_05/位运算_1的个数.py" />
+        <option value="$PROJECT_DIR$/Week_05/位运算_1的个数_2的幂_颠倒二进制位_比特位计数_N皇后.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[190]颠倒二进制位.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[51]N皇后.py" />
+        <option value="$PROJECT_DIR$/Week_05/位运算_位1的个数_2的幂_颠倒二进制位_比特位计数_N皇后.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="429" />
-    <option name="y" value="196" />
-    <option name="width" value="1244" />
-    <option name="height" value="690" />
+    <option name="x" value="212" />
+    <option name="y" value="42" />
+    <option name="width" value="1636" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -101,8 +181,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,17 +191,31 @@
             <path>
               <item name="AlgorithmQIUZHAO" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmQIUZHAO" type="462c0819:PsiDirectoryNode" />
-              <item name="Week_02" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/knigh/Desktop/algorithm_practice/AlgorithmQIUZHAO/Week_03/20200730/DFS-BFS.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\knigh\Desktop\algorithm_practice\AlgorithmQIUZHAO\Week_04" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\knigh\Desktop\algorithm_practice\AlgorithmQIUZHAO\Week_03" />
+      <recent name="C:\Users\knigh\Desktop\algorithm_practice\AlgorithmQIUZHAO\Week_02" />
+      <recent name="C:\Users\knigh\Desktop\algorithm_practice\AlgorithmQIUZHAO\Week_01" />
+      <recent name="C:\Users\knigh\Desktop\algorithm_practice\AlgorithmQIUZHAO\Week_05" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -137,25 +229,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.[263]丑数">
-    <configuration name="树_" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_02/20200722" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="AlgorithmQIUZHAO" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_02/20200722/树_.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="[144]二叉树的前序遍历" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.[51]N皇后">
+    <configuration name="[190]颠倒二进制位" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -167,12 +242,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="AlgorithmQIUZHAO" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[144]二叉树的前序遍历.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[190]颠倒二进制位.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="[239]滑动窗口最大值" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="[198]打家劫舍" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -184,12 +259,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="AlgorithmQIUZHAO" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[239]滑动窗口最大值.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[198]打家劫舍.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="[263]丑数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="[213]打家劫舍 II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -201,12 +276,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="AlgorithmQIUZHAO" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[263]丑数.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[213]打家劫舍 II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="[94]二叉树的中序遍历" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="[51]N皇后" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -218,25 +293,42 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="AlgorithmQIUZHAO" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[94]二叉树的中序遍历.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[51]N皇后.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="[52]N皇后 II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AlgorithmQIUZHAO" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[52]N皇后 II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.[94]二叉树的中序遍历" />
-      <item index="1" class="java.lang.String" itemvalue="Python.树_" />
-      <item index="2" class="java.lang.String" itemvalue="Python.[144]二叉树的前序遍历" />
-      <item index="3" class="java.lang.String" itemvalue="Python.[239]滑动窗口最大值" />
-      <item index="4" class="java.lang.String" itemvalue="Python.[263]丑数" />
+      <item index="0" class="java.lang.String" itemvalue="Python.[198]打家劫舍" />
+      <item index="1" class="java.lang.String" itemvalue="Python.[213]打家劫舍 II" />
+      <item index="2" class="java.lang.String" itemvalue="Python.[190]颠倒二进制位" />
+      <item index="3" class="java.lang.String" itemvalue="Python.[52]N皇后 II" />
+      <item index="4" class="java.lang.String" itemvalue="Python.[51]N皇后" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.[263]丑数" />
-        <item index="1" class="java.lang.String" itemvalue="Python.[239]滑动窗口最大值" />
-        <item index="2" class="java.lang.String" itemvalue="Python.[144]二叉树的前序遍历" />
-        <item index="3" class="java.lang.String" itemvalue="Python.树_" />
-        <item index="4" class="java.lang.String" itemvalue="Python.[94]二叉树的中序遍历" />
+        <item index="0" class="java.lang.String" itemvalue="Python.[51]N皇后" />
+        <item index="1" class="java.lang.String" itemvalue="Python.[52]N皇后 II" />
+        <item index="2" class="java.lang.String" itemvalue="Python.[190]颠倒二进制位" />
+        <item index="3" class="java.lang.String" itemvalue="Python.[213]打家劫舍 II" />
+        <item index="4" class="java.lang.String" itemvalue="Python.[198]打家劫舍" />
       </list>
     </recent_temporary>
   </component>
@@ -260,27 +352,27 @@
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24311183" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34993774" sideWeight="0.5107991" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295516" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39103362" sideWeight="0.48920086" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15721232" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3965424" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45454547" sideWeight="0.4913607" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25778332" sideWeight="0.48920086" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39636913" sideWeight="0.4913607" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -290,7 +382,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Week_02/20200724/树_二叉树的前中序遍历_N叉树的前后序遍历.py</url>
+          <url>file://$PROJECT_DIR$/Week_02/树_二叉树的前中序遍历_N叉树的前后序遍历.py</url>
           <line>74</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -305,274 +397,373 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[239]滑动窗口最大值.py</url>
-          <line>60</line>
-          <option name="timeStamp" value="7" />
+          <url>file://$PROJECT_DIR$/Week_03/回溯_17电话号码的字母组合_46全排列_51N皇后_79子集.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[263]丑数.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="8" />
+          <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[198]打家劫舍.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[198]打家劫舍.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[213]打家劫舍 II.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[213]打家劫舍 II.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[198]打家劫舍.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[198]打家劫舍.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[52]N皇后 II.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[52]N皇后 II.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[52]N皇后 II.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[51]N皇后.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[51]N皇后.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[51]N皇后.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="43" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week_01/20200717/list_283移动零_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[70]爬楼梯.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_01/20200718/hashmap_242有效的字母异位词_2数之和.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2625">
-          <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_01/20200719/stack_155最小栈_24有效的括号_84柱状图中的最大的矩形_接雨水.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="980">
-          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_02/20200724/树_二叉树的前中序遍历_N叉树的前后序遍历.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_01/20200717/list_283移动零_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[42]接雨水.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[70]爬楼梯.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_01/20200718/hashmap_242有效的字母异位词_2数之和.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2625">
-          <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_01/20200719/stack_155最小栈_24有效的括号_84柱状图中的最大的矩形_接雨水.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1400">
-          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_01/20200719/stack_155最小栈_24有效的括号_84柱状图中的最大的矩形_接雨水.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="980">
-          <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[42]接雨水.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_01/20200717/list_283移动零_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_01/20200718/hashmap_242有效的字母异位词_2数之和.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[70]爬楼梯.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[144]二叉树的前序遍历.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[589]N叉树的前序遍历.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[590]N叉树的后序遍历.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[50]Pow(x, n).py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[46]全排列92443313.txt" />
+    <entry file="file://$PROJECT_DIR$/Week_01/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[46]全排列.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[17]电话号码的字母组合.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[169]多数元素.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[33]搜索旋转排序数组.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[455]分发饼干.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[78]子集.py" />
+    <entry file="file://$PROJECT_DIR$/Week_03/贪心_455分发饼干.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="35">
+            <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[509]斐波那契数.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[62]不同路径.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[53]最大子序和.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[322]零钱兑换.py" />
+    <entry file="file://$PROJECT_DIR$/Week_04/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="346">
+            <caret line="34" column="64" lean-forward="false" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_05/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/da-jia-jie-she-by-leetcode-solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1143]最长公共子序列.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[120]三角形最小路径和.py" />
+    <entry file="file://$PROJECT_DIR$/Week_04/20200809/动态规划_509斐波那契数列_62不同路径_64最小路径和_1143最长公共子序列_120三角形最小路径和_53最大子序和_打家劫舍_爬楼梯__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2905">
+          <caret line="83" column="36" lean-forward="false" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="320" column="0" lean-forward="false" selection-start-line="320" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="201">
+          <caret line="311" column="0" lean-forward="false" selection-start-line="311" selection-start-column="0" selection-end-line="311" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/heapq.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[64]最小路径和.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[337]打家劫舍 III.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="134" column="4" lean-forward="false" selection-start-line="134" selection-start-column="4" selection-end-line="134" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="525">
+          <caret line="48" column="33" lean-forward="false" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[263]丑数.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[213]打家劫舍 II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="37" column="24" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        <state relative-caret-position="568">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[剑指 Offer 49]丑数.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[198]打家劫舍.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        <state relative-caret-position="35">
+          <caret line="116" column="31" lean-forward="false" selection-start-line="116" selection-start-column="31" selection-end-line="116" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week_02/20200726/堆_队列_239滑动窗口的最大值_264丑数.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/1590798764/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="60" column="15" lean-forward="true" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
-          <folding />
+        <state relative-caret-position="256">
+          <caret line="4360" column="6" lean-forward="false" selection-start-line="4360" selection-start-column="6" selection-end-line="4360" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[239]滑动窗口最大值.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="72" column="51" lean-forward="true" selection-start-line="72" selection-start-column="51" selection-end-line="72" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[347]前 K 个高频元素.py">
+    <entry file="file://$PROJECT_DIR$/Week_01/stack_155最小栈_24有效的括号_84柱状图中的最大的矩形_接雨水.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[剑指 Offer 40]最小的k个数.py">
+    <entry file="file://$PROJECT_DIR$/Week_01/dequeue_239滑动窗口_设计循环双端队列.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="65" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding>
-            <marker date="1595775805917" expanded="false" signature="1309:1455" ph="..." />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week_02/20200725/堆_heapq_前k个高频元素_最小的k个元素.py">
+    <entry file="file://$PROJECT_DIR$/Week_01/hashmap_242有效的字母异位词_2数之和.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[94]二叉树的中序遍历.py">
+    <entry file="file://$PROJECT_DIR$/Week_01/list_283移动零_.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[144]二叉树的前序遍历.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="63" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[589]N叉树的前序遍历.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="47" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[590]N叉树的后序遍历.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_02/20200724/树_二叉树的前中序遍历_N叉树的前后序遍历.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="172" column="18" lean-forward="false" selection-start-line="172" selection-start-column="18" selection-end-line="172" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week_02/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-            <folding />
+          <first_editor relative-caret-position="105">
+            <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Week_02/堆_队列_239滑动窗口的最大值_264丑数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_02/堆_heapq_前k个高频元素_最小的k个元素.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_02/树_二叉树的前中序遍历_N叉树的前后序遍历.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="172" column="18" lean-forward="false" selection-start-line="172" selection-start-column="18" selection-end-line="172" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/二分查找_33搜索旋转排序数组_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/DFS-BFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/回溯_17电话号码的字母组合_46全排列_51N皇后_79子集.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="75" column="12" lean-forward="true" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
+          <folding>
+            <element signature="e#784#1395#0" expanded="false" />
+            <element signature="e#1410#1625#1" expanded="false" />
+            <element signature="e#1662#2489#0" expanded="false" />
+            <element signature="e#2590#2739#1" expanded="false" />
+            <element signature="e#2763#3357#0" expanded="false" />
+            <element signature="e#3514#4552#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/分治_79子集_59pow_169多数元素.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="54" column="14" lean-forward="false" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[338]比特位计数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[191]位1的个数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[231]2的幂.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[190]颠倒二进制位.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[51]N皇后.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3360">
+          <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="121" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[52]N皇后 II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="65" column="35" lean-forward="true" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_05/位运算_位1的个数_2的幂_颠倒二进制位_比特位计数_N皇后.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="120" column="44" lean-forward="false" selection-start-line="120" selection-start-column="44" selection-end-line="120" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_05/动态规划_打家劫舍.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_05/树_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="42" column="29" lean-forward="false" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
